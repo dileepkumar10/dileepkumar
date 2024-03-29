@@ -1,7 +1,7 @@
 
 ![Header](https://www.yash.com/wp-content/uploads/2023/04/blog-main-banner-devops.png)
 <h1 align="center">Hi 👋, I'm R S Dileep kumar</h1>
-<h3 align="center">A passionate Devops Engineer from India Karnataka Bengaluru</h3>
+<h3 align="center">A passionate Devops Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileepkumar10&label=Profile%20views&color=0e75b6&style=flat" alt="dileepkumar10" /> </p>
 
